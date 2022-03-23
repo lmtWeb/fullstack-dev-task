@@ -21,7 +21,7 @@
 <h2>Business logic:</h2>
 
 Task consists of single page about Black Friday.
-Design: https://www.figma.com/file/wHFF4DtgM3SWUS10YKIK6f/Testa-dizains?node-id=2%3A216   (See Page 1)
+Design: https://www.figma.com/file/wHFF4DtgM3SWUS10YKIK6f/Testa-dizains?node-id=22%3A2   (See Page 2)
 
 <h4>Frontend:</h4>
 <li>Create webpage from given design for desktop and mobile layouts.</li>
