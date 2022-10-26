@@ -6,12 +6,12 @@
 <li>Create your repo (preferably on Github) for fullstack-dev-task solution and share it us.</li>
 
 <h2>Requirements:</h2>
-<li>Use PHP 7+</li>
+<li>Use PHP 8+</li>
 <li>Use OOP</li>
 <li>Follow best practices SOLID, Clean code etc.</li>
 <li>Laravel</li>
 <li>Data storage solution is up to you. DB, filesystem, cache, memory... </li>
-<li>Use SASS, Mix</li>
+<li>Use SASS, Mix or Vite</li>
 
 <h3>Optionally you can also use:</h3>
 <li>Vue.js</li>
