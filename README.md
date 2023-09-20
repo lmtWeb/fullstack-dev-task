@@ -16,7 +16,7 @@
 <h3>Optionally you can also use:</h3>
 <li>Vue.js</li>
 <li>TypeScript</li>
-<li>Bootstrap</li>
+<li>Tailwind</li>
 
 <h2>Business logic:</h2>
 
